@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered School & College Management System",
+  "description": "A modern School & College Management System (SMS) website with a public-facing site and a secure admin portal for managing announcements, students, and courses. Built with React, Tailwind CSS, and Supabase.",
+  "requestFramePermissions": []
+}
